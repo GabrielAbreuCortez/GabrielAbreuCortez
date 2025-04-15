@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Cortez
 
-**`Desenvolvedor FullStack`**
+*`Desenvolvedor FullStack`*
 
 Me chamo Gabriel Abreu Cortez, tenho 21 anos e sou natural de São Carlos SP. Concluí o ensino médio e fiz curso Técino em Mecatrônica pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonada por tecnologia e estou sempre buscando aprender e melhorar minhas habilidades. Gosto de trabalhar com pessoas bem capacitadas para resolver problemas e criar soluções inovadoras, e também gosto de estar sempre me superando e me desenvolvendo no que gosto de fazer.
 
