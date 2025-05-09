@@ -102,7 +102,7 @@ Me chamo Gabriel Abreu Cortez, tenho 21 anos e sou natural de São Carlos SP. Co
 
 ### 📊 Estatísticas
 
-<p>
+<p style = "dislplay: flex; justify-content:center;">
   <img 
     align="left" 
     alt="GitHub Stats" 
